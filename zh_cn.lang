@@ -1,0 +1,241 @@
+tile.contenttweaker.invar_block.name=殷钢块
+item.contenttweaker.invar_ingot.name=殷钢锭
+item.contenttweaker.invar_gear.name=殷钢齿轮
+item.contenttweaker.invar_nugget.name=殷钢粒
+item.contenttweaker.invar_dust.name=殷钢粉
+item.contenttweaker.invar_plate.name=殷钢板
+item.contenttweaker.invar_rod.name=殷钢杆
+fluid.invar=熔融殷钢
+
+tile.contenttweaker.nahuatl.name=纳瓦特木板
+
+item.contenttweaker.draconium_gear.name=龙齿轮
+item.contenttweaker.copper_gear.name=铜齿轮
+item.contenttweaker.iron_gear.name=铁齿轮
+item.contenttweaker.gold_gear.name=金齿轮
+
+item.contenttweaker.dimensional_shard_dust.name=空间碎片粉
+item.contenttweaker.lapis_lazuli_dust.name=青金石粉
+item.contenttweaker.coal_dust.name=煤粉
+item.contenttweaker.ardite_dust.name=阿迪特粉
+item.contenttweaker.cobalt_dust.name=钴粉
+
+item.contenttweaker.dense_lapis_lazuli_plate.name=压缩青金石
+item.contenttweaker.dense_draconium_plate.name=压缩龙
+item.contenttweaker.dense_ardite_plate.name=压缩阿迪特
+
+item.contenttweaker.cobalt_plate.name=钴板
+item.contenttweaker.lapis_lazuli_plate.name=青金石板
+item.contenttweaker.draconium_plate.name=龙板
+item.contenttweaker.biotite_plate.name=Biotite Plate
+item.contenttweaker.ardite_plate.name=阿迪特板
+item.contenttweaker.osmium_plate.name=锇板
+item.contenttweaker.tin_plate.name=锡板
+
+fluid.stainlesssteel=熔融不锈钢
+fluid.netherite=熔融下届合金
+fluid.draconium=熔融龙
+fluid.tungsten=熔融钨
+fluid.debris=熔融远古残骸
+
+tile.contenttweaker.celestial_alloy_block.name=天空合金块
+
+item.contenttweaker.advanced_integrated_circuit_0.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_1.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_2.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_3.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_4.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_5.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_6.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_7.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_8.name=高级集成电路
+item.contenttweaker.advanced_integrated_circuit_9.name=高级集成电路
+
+item.contenttweaker.component_iron.name=Incomplete Iron Component
+item.contenttweaker.component_steel.name=Incomplete Steel Component
+
+item.contenttweaker.slag_aluminum.name=Aluminum Slag
+item.contenttweaker.slag_ardite.name=Ardite Slag
+item.contenttweaker.slag_cobalt.name=Cobalt Slag
+item.contenttweaker.slag_copper.name=Copper Slag
+item.contenttweaker.slag_gold.name=Gold Slag
+item.contenttweaker.slag_iron.name=Iron Slag
+item.contenttweaker.slag_lead.name=Lead Slag
+item.contenttweaker.slag_nickel.name=Nickel Slag
+item.contenttweaker.slag_osmium.name=Osmium Slag
+item.contenttweaker.slag_silver.name=Silver Slag
+item.contenttweaker.slag_tin.name=Tin Slag
+item.contenttweaker.slag_uranium.name=Uranium Slag
+item.contenttweaker.slag_zinc.name=Zinc Slag
+item.contenttweaker.slag_tungsten.name=Tungsten Slag
+item.contenttweaker.slag_platinum.name=Platinum Slag
+
+tile.contenttweaker.raw_aluminum_block.name=Raw Aluminum Block
+tile.contenttweaker.raw_ardite_block.name=Raw Ardite Block
+tile.contenttweaker.raw_cobalt_block.name=Raw Cobalt Block
+tile.contenttweaker.raw_copper_block.name=Raw Copper Block
+tile.contenttweaker.raw_gold_block.name=Raw Gold Block
+tile.contenttweaker.raw_iron_block.name=Raw Iron Block
+tile.contenttweaker.raw_lead_block.name=Raw Lead Block
+tile.contenttweaker.raw_nickel_block.name=Raw Nickel Block
+tile.contenttweaker.raw_osmium_block.name=Raw Osmium Block
+tile.contenttweaker.raw_silver_block.name=Raw Silver Block
+tile.contenttweaker.raw_tin_block.name=Raw Tin Block
+tile.contenttweaker.raw_uranium_block.name=Raw Uranium Block
+tile.contenttweaker.raw_platinum_block.name=Raw Platinum Block
+tile.contenttweaker.raw_tungsten_block.name=Raw Tungsten Block
+tile.contenttweaker.raw_zinc_block.name=Raw Zinc Block
+
+tile.contenttweaker.osgloglas_block.name=Osgloglas Block
+item.contenttweaker.osgloglas_ingot.name=Osgloglas Ingot
+item.contenttweaker.osgloglas_gear.name=Osgloglas Gear
+item.contenttweaker.osgloglas_nugget.name=Osgloglas Nugget
+item.contenttweaker.osgloglas_dust.name=Osgloglas Dust
+item.contenttweaker.osgloglas_plate.name=Osgloglas Plate
+item.contenttweaker.osgloglas_rod.name=Osgloglas Rod
+fluid.osgloglas=Molten Osgloglas
+
+item.contenttweaker.insane_alloy.name=§6Insane Alloy
+item.contenttweaker.ludicrous_alloy.name=§5Ludicrous Alloy
+item.contenttweaker.nanotech_alloy.name=§3Nanotech Alloy
+item.contenttweaker.insane_control_circuit.name=§6Insane Control Circuit
+item.contenttweaker.ludicrous_control_circuit.name=§5Ludicrous Control Circuit
+item.contenttweaker.nanotech_control_circuit.name=§3Nanotech Control Circuit
+
+item.contenttweaker.enriched_dimensional_shard.name=Enriched Dimensional Shard
+
+item.contenttweaker.canteen.name=§dNutritional Canteen
+fluid.nutritional_paste=Nutritional Paste
+
+tile.contenttweaker.fission_reactor_casing.name=Fission Reactor Casing
+tile.contenttweaker.fission_fuel_assembly.name=Fission Fuel Assembly
+tile.contenttweaker.sps_casing.name=§dSPS Casing
+tile.contenttweaker.sps_provider.name=§dSPS Provider
+tile.contenttweaker.supercharged_coil.name=§dSupercharged Coil
+tile.contenttweaker.control_rod_assembly.name=Control Rod Assembly
+tile.contenttweaker.energetic_alloy_block.name=Block of Energetic Alloy
+
+tile.contenttweaker.apatite_ore.name=Apatite Ore
+tile.contenttweaker.cinnabar_ore.name=Cinnabar Ore
+tile.contenttweaker.manganese_ore.name=Manganese Ore
+
+tile.contenttweaker.basic_core.name=Machine Core (§aBasic§r)
+tile.contenttweaker.advanced_core.name=Machine Core (§cAdvanced§r)
+tile.contenttweaker.elite_core.name=Machine Core (§bElite§r)
+tile.contenttweaker.ultimate_core.name=Machine Core (§5Ultimate§r)
+tile.contenttweaker.insane_core.name=Machine Core (§6Insane§r)
+tile.contenttweaker.ludicrous_core.name=Machine Core (§dLudicrous§r)
+tile.contenttweaker.nanotech_core.name=Machine Core (§3Nanotech§r)
+
+tile.contenttweaker.base_upgrade_block.name=Blank Upgrade Block
+tile.contenttweaker.gas_upgrade_block.name=Gas Upgrade Block
+tile.contenttweaker.speed_upgrade_block.name=Speed Upgrade Block
+tile.contenttweaker.energy_upgrade_block.name=Energy Upgrade Block
+
+tile.contenttweaker.nether_grout.name=Nether Grout
+
+fluid.polyethene=Polyethylene
+fluid.sand=Refined Sand
+fluid.light_oil=Light Oil
+fluid.heavy_oil=Heavy Oil
+fluid.very_heavy_oil=Very Heavy Oil
+fluid.kerosene=Kerosene
+fluid.methane=Methane
+fluid.biomass=Biomass
+fluid.nitro_fuel=Nitro Fuel
+fluid.naphtha=Naphtha
+fluid.propane=Propane
+fluid.butane=Butane
+fluid.redstone_acid=Redstone Acid
+fluid.antimatter=Antimatter
+fluid.plutonium=Plutonium
+fluid.polonium=Polonium
+fluid.nuclear_waste=Nuclear Waste
+fluid.spent_nuclear_waste=Spent Nuclear Waste
+fluid.fissile_fuel=Fissile Fuel
+fluid.uranium_hexafluoride=Uranium Hexafluoride
+fluid.hydrofluoric_acid=Hydrofluoric Acid
+fluid.uranium_oxide=Uranium Oxide
+fluid.redstone=Destabilized Redstone
+fluid.energetic_alloy=Molten Energetic Alloy
+
+gas.antimatter=Pressurized Antimatter
+gas.plutonium=Pressurized Plutonium
+gas.polonium=Pressurized Polonium
+gas.nuclear_waste=Pressurized Nuclear Waste
+gas.spent_nuclear_waste=Pressurized Spent Nuclear Waste
+gas.fissile_fuel=Pressurized Fissile Fuel
+gas.uranium_hexafluoride=Pressurized Uranium Hexafluoride
+gas.hydrofluoric_acid=Pressurized Hydrofluoric Acid
+gas.uranium_oxide=Pressurized Uranium Oxide
+gas.universal_metal=Pressurized Eutectic UU-Metal Alloy
+
+fluid.magmarium=Molten Magmarium
+fluid.magma_cream=Magma Cream
+fluid.blazing_blood=Blazing Blood
+
+tile.contenttweaker.deepslate.name=Deepslate
+tile.contenttweaker.deepslate_bricks.name=Deepslate Bricks
+tile.contenttweaker.deepslate_tiles.name=Deepslate Tiles
+
+tile.contenttweaker.deepslate_coal_ore.name=Deepslate Coal Ore
+tile.contenttweaker.deepslate_diamond_ore.name=Deepslate Diamond Ore
+tile.contenttweaker.deepslate_certus_quartz_ore.name=Deepslate Certus Quartz Ore
+tile.contenttweaker.deepslate_charged_certus_quartz_ore.name=Deepslate Charged Certus Quartz Ore
+tile.contenttweaker.deepslate_lapis_ore.name=Deepslate Lapis Ore
+tile.contenttweaker.deepslate_redstone_ore.name=Deepslate Redstone Ore
+tile.contenttweaker.deepslate_ruby_ore.name=Deepslate Ruby Ore
+tile.contenttweaker.deepslate_gold_ore.name=Deepslate Gold Ore
+tile.contenttweaker.deepslate_iron_ore.name=Deepslate Iron Ore
+tile.contenttweaker.deepslate_aluminum_ore.name=Deepslate Aluminum Ore
+tile.contenttweaker.deepslate_lead_ore.name=Deepslate Lead Ore
+tile.contenttweaker.deepslate_silver_ore.name=Deepslate Silver Ore
+tile.contenttweaker.deepslate_nickel_ore.name=Deepslate Nickel Ore
+tile.contenttweaker.deepslate_uranium_ore.name=Deepslate Uranium Ore
+tile.contenttweaker.deepslate_osmium_ore.name=Deepslate Osmium Ore
+tile.contenttweaker.deepslate_copper_ore.name=Deepslate Copper Ore
+tile.contenttweaker.deepslate_tin_ore.name=Deepslate Tin Ore
+tile.contenttweaker.deepslate_cobalt_ore.name=Deepslate Cobalt Ore
+tile.contenttweaker.deepslate_ardite_ore.name=Deepslate Ardite Ore
+
+tile.contenttweaker.nether_coal_ore.name=Nether Coal Ore
+tile.contenttweaker.nether_diamond_ore.name=Nether Diamond Ore
+tile.contenttweaker.nether_certus_quartz_ore.name=Nether Certus Quartz Ore
+tile.contenttweaker.nether_charged_certus_quartz_ore.name=Nether Charged Certus Quartz Ore
+tile.contenttweaker.nether_lapis_ore.name=Nether Lapis Ore
+tile.contenttweaker.nether_redstone_ore.name=Nether Redstone Ore
+tile.contenttweaker.nether_ruby_ore.name=Nether Ruby Ore
+tile.contenttweaker.nether_gold_ore.name=Nether Gold Ore
+tile.contenttweaker.nether_iron_ore.name=Nether Iron Ore
+tile.contenttweaker.nether_aluminum_ore.name=Nether Aluminum Ore
+tile.contenttweaker.nether_lead_ore.name=Nether Lead Ore
+tile.contenttweaker.nether_silver_ore.name=Nether Silver Ore
+tile.contenttweaker.nether_nickel_ore.name=Nether Nickel Ore
+tile.contenttweaker.nether_uranium_ore.name=Nether Uranium Ore
+tile.contenttweaker.nether_osmium_ore.name=Nether Osmium Ore
+tile.contenttweaker.nether_copper_ore.name=Nether Copper Ore
+tile.contenttweaker.nether_tin_ore.name=Nether Tin Ore
+tile.contenttweaker.nether_cobalt_ore.name=Nether Cobalt Ore
+tile.contenttweaker.nether_ardite_ore.name=Nether Ardite Ore
+
+tile.contenttweaker.end_coal_ore.name=End Coal Ore
+tile.contenttweaker.end_diamond_ore.name=End Diamond Ore
+tile.contenttweaker.end_certus_quartz_ore.name=End Certus Quartz Ore
+tile.contenttweaker.end_charged_certus_quartz_ore.name=End Charged Certus Quartz Ore
+tile.contenttweaker.end_lapis_ore.name=End Lapis Ore
+tile.contenttweaker.end_redstone_ore.name=End Redstone Ore
+tile.contenttweaker.end_ruby_ore.name=End Ruby Ore
+tile.contenttweaker.end_gold_ore.name=End Gold Ore
+tile.contenttweaker.end_iron_ore.name=End Iron Ore
+tile.contenttweaker.end_aluminum_ore.name=End Aluminum Ore
+tile.contenttweaker.end_lead_ore.name=End Lead Ore
+tile.contenttweaker.end_silver_ore.name=End Silver Ore
+tile.contenttweaker.end_nickel_ore.name=End Nickel Ore
+tile.contenttweaker.end_uranium_ore.name=End Uranium Ore
+tile.contenttweaker.end_osmium_ore.name=End Osmium Ore
+tile.contenttweaker.end_copper_ore.name=End Copper Ore
+tile.contenttweaker.end_tin_ore.name=End Tin Ore
+tile.contenttweaker.end_cobalt_ore.name=End Cobalt Ore
+tile.contenttweaker.end_ardite_ore.name=End Ardite Ore
+
+tile.contenttweaker.ore_fluorite.name=Fluorite Ore
